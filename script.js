@@ -1,0 +1,1 @@
+// Logic for Booking popup covering rows 8–11 and cols 2–17
