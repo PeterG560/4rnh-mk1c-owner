@@ -1,1 +1,1 @@
-4RnH Mk.1c - Updated Today View with logo & layout refinements
+4RnH Mk.1c scaffold preview with visible layout.
