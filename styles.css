@@ -18,11 +18,14 @@ body {
     align-items: center;
     justify-content: center;
 }
-.vert-label div {
-    color: #228B22;
+.bottom-up-label {
+    transform: rotate(-90deg);
+    transform-origin: center;
+    font-size: 24px;
     font-weight: bold;
-    text-align: center;
-    font-size: 14px;
+    color: #228B22;
+    white-space: nowrap;
+    direction: rtl;
 }
 .col2 {
     grid-column: 2;

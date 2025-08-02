@@ -1,1 +1,1 @@
-Final scaffold with stacked label, embedded logo, and repositioned date fields.
+Final Mk.1c scaffold with embedded vertical label in green (#228B22).
