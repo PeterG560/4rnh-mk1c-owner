@@ -17,12 +17,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    writing-mode: vertical-rl;
-    text-align: center;
 }
-.vert-label {
+.vert-label div {
     color: #228B22;
     font-weight: bold;
+    text-align: center;
+    font-size: 14px;
 }
 .col2 {
     grid-column: 2;
@@ -35,9 +35,21 @@ body {
     align-items: center;
     justify-content: center;
     font-weight: bold;
+    border: 1px solid #ccc;
+}
+.arrival-label {
+    font-size: 12px;
+    text-align: center;
+    padding-top: 10px;
 }
 .logo-box {
-    background-color: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.g-logo {
+    height: 30px;
+    width: 30px;
 }
 .logout-box {
     background-color: #f0f0f0;

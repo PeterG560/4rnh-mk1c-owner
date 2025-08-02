@@ -1,1 +1,1 @@
-4RnH Mk.1c scaffold preview with visible layout.
+Final scaffold with stacked label, embedded logo, and repositioned date fields.
